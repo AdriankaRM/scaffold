@@ -1,2 +1,2 @@
 # scaffold
-This is a project scaaafols for Python
+This is a project scaffolds for Python
